@@ -1,0 +1,2 @@
+# gRPCTest
+gPRCのテスト用
